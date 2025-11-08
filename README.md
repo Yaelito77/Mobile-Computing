@@ -7,4 +7,4 @@ La aplicación muestra una tarjeta digital (V-Card) con información personal, f
 
 ## 🧩 Captura de la aplicación
 
-![Resultado final de la V-Card]([AQUI_VA_TU_LINK_DE_IMAGEN](https://github.com/Yaelito77/Mobile-Computing/blob/main/vcard_result.png?raw=true))
+![Resultado final de la V-Card](https://github.com/Yaelito77/Mobile-Computing/blob/main/vcard_result.png?raw=true)
