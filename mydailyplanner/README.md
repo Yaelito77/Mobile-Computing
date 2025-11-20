@@ -7,4 +7,4 @@ La aplicación permite manejar tareas diarias mediante un modelo simple, un form
 ![Lista de tareas](MyPlannerApp_Result1.png)
 
 ### Pantalla del formulario
-![Formulario](./mydailyplanner/MyPlannerApp_Result2.png)
+![Formulario](MyPlannerApp_Result2.png)
