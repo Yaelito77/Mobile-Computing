@@ -6,5 +6,5 @@ La aplicación permite manejar tareas diarias mediante un modelo simple, un form
 ### Pantalla de lista de tareas vacia
 ![Lista de tareas](https://github.com/Yaelito77/Mobile-Computing/blob/main/mydailyplanner/MyPlannerApp_Result1.png?raw=true)
 
-### Pantalla de lista de tareas con una actividad
-![Lista de tareas]([https://github.com/Yaelito77/Mobile-Computing/blob/main/mydailyplanner/MyPlannerApp_Result1.png?raw=true](https://github.com/Yaelito77/Mobile-Computing/blob/main/mydailyplanner/MyPlannerApp_Result2.png?raw=true))
+### Pantalla del formulario
+![Formulario]([https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/MyDailyPlanner/form_result.png](https://github.com/Yaelito77/Mobile-Computing/blob/main/mydailyplanner/MyPlannerApp_Result2.png?raw=true))
