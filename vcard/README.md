@@ -1,16 +1,10 @@
-# vcard_app
+# Mobile Computing - VCard App
 
-A new Flutter project.
+Este proyecto fue desarrollado como parte de la clase **Computación Móvil**.  
+La aplicación muestra una tarjeta digital (V-Card) con información personal, foto de perfil y un código QR.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧩 Captura de la aplicación
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Resultado final de la V-Card](https://github.com/Yaelito77/Mobile-Computing/blob/main/vcard_result.png?raw=true)
