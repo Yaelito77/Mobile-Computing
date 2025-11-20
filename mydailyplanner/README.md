@@ -6,5 +6,5 @@ La aplicación permite manejar tareas diarias mediante un modelo simple, un form
 ### Pantalla de lista de tareas vacia
 ![Lista de tareas](MyPlannerApp_Result1.png)
 
-### Pantalla del formulario
+### Pantalla de lista de tareas con una actividad
 ![Formulario](MyPlannerApp_Result2.png)
