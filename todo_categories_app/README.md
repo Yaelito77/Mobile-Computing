@@ -1,16 +1,31 @@
-# todo_categories_app
+# Todo Categories App
 
-A new Flutter project.
+Aplicación móvil desarrollada en **Flutter** para organizar tareas (Todos) por categorías.
 
-## Getting Started
+Permite:
+- Crear, editar y eliminar categorías
+- Agregar tareas con fecha objetivo
+- Marcar tareas como completadas
+- Filtrar tareas (todas, pendientes y completadas)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Vista previa de la aplicación
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Pantalla principal
+![Home](assets/screenshots/home.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Detalle de categoría
+![Category Detail](assets/screenshots/category_detail.png)
+
+---
+
+## 🛠️ Tecnologías utilizadas
+- Flutter
+- Dart
+- Provider (manejo de estado)
+
+---
+
+## 📚 Curso
+Mobile Computing
